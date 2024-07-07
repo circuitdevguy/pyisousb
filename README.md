@@ -1,2 +1,2 @@
 # pyisousb
-usb tool made with python
+bootable usb maker tool made with python
